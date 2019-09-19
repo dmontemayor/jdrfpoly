@@ -1,0 +1,11 @@
+Package: jdrfpoly
+Title: JDRFpoly
+Version: 0.1
+Authors@R: person("Daniel", "Montemayor", email = "montemayord2@uthscsa.edu",
+                  role = c("aut", "cre"))
+Description: Predict missing Pharma data from metabolomics.
+Depends: R (>= 3.1.0)
+License: file LICENSE
+LazyData: true
+RoxygenNote: 6.1.1
+Encoding: UTF-8
